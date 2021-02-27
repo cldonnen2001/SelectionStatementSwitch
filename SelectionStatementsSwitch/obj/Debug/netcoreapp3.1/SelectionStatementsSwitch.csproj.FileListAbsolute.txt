@@ -1,0 +1,13 @@
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.exe
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.deps.json
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.runtimeconfig.json
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.runtimeconfig.dev.json
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.dll
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\bin\Debug\netcoreapp3.1\SelectionStatementsSwitch.pdb
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.csprojAssemblyReference.cache
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.AssemblyInfoInputs.cache
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.AssemblyInfo.cs
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.csproj.CoreCompileInputs.cache
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.dll
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.pdb
+C:\Users\cldon\Desktop\Repos\SelectionStatementsa\SelectionStatementsSwitcha\SelectionStatementsSwitch\obj\Debug\netcoreapp3.1\SelectionStatementsSwitch.genruntimeconfig.cache
